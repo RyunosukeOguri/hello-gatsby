@@ -19,6 +19,8 @@ View GraphiQL, an in-browser IDE, to explore your site's data and schema
   http://localhost:8000/___graphql
 ```
 
+デモ: [https://hello-gatsby.amalab.io](https://hello-gatsby.amalab.io)
+
 # Gatsby の初め方
 
 gatsby cli をインストールします
