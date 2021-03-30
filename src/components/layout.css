@@ -51,6 +51,7 @@ template {
   display: none;
 }
 a {
+  color: #663399;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
