@@ -2,7 +2,7 @@ node: v14.0.0
 
 # Start
 
-```
+```shell
 $ git clone
 $ cd hello-gatsby
 $ yarn install
@@ -23,13 +23,13 @@ View GraphiQL, an in-browser IDE, to explore your site's data and schema
 
 gatsby cli をインストールします
 
-```
+```shell
 $ npm install -g gatsby-cli
 ```
 
 ※CLI を使わない場合は下記で gatsby をインストールできます。
 
-```
+```shell
 $ npm init gatsby
 ```
 
