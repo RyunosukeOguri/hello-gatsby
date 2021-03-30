@@ -1,7 +1,7 @@
 - Gatsby: v3.0.0
 - node: v14.0.0
 
-# Start
+## Getting Started
 
 ```shell
 $ git clone git@github.com:RyunosukeOguri/hello-gatsby.git
@@ -22,7 +22,12 @@ View GraphiQL, an in-browser IDE, to explore your site's data and schema
 
 デモ: [https://hello-gatsby.amalab.io](https://hello-gatsby.amalab.io)
 
-# Gatsbyのプロジェクトの作り方
+
+---
+
+
+
+## Gatsbyのプロジェクトの作り方
 
 gatsby cli をインストールします
 
