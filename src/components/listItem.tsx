@@ -13,9 +13,7 @@ interface Item {
 
 const ListItem = ({ data }: Props ) => (
   <Link to={`/posts/${data.id}`}>
-    <a>
-      title: {data.title}, author: {data.author}
-    </a>
+    {data.title}
   </Link>
 )
 
